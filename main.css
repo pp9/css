@@ -1,0 +1,6 @@
+.red {
+    background-color: coral;
+}
+[class~=st] {
+    padding-left: 20px;
+}
